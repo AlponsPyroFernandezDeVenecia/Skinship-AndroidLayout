@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_navy"
+    tools:context=".Recommendation">
+
+    <Button
+        android:id="@+id/button38"
+        android:layout_width="97dp"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <Button
+        android:id="@+id/button39"
+        android:layout_width="97dp"
+        android:layout_height="wrap_content"
+        android:text="Products"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.318"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <Button
+        android:id="@+id/button40"
+        android:layout_width="97dp"
+        android:layout_height="wrap_content"
+        android:text="About us"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.627"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <Button
+        android:id="@+id/button41"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:text="Recommendation"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.976"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
+
+    <ImageView
+        android:id="@+id/imageView30"
+        android:layout_width="65dp"
+        android:layout_height="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.147"
+        app:srcCompat="@drawable/alovera" />
+
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.264"
+        app:srcCompat="@drawable/eskinol" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.394"
+        app:srcCompat="@drawable/kojicacidsoap" />
+
+    <ImageView
+        android:id="@+id/imageView33"
+        android:layout_width="60dp"
+        android:layout_height="57dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.065"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.522"
+        app:srcCompat="@drawable/kojic2" />
+
+    <ImageView
+        android:id="@+id/imageView34"
+        android:layout_width="67dp"
+        android:layout_height="64dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.04"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.635"
+        app:srcCompat="@drawable/masck" />
+
+    <ImageView
+        android:id="@+id/imageView35"
+        android:layout_width="63dp"
+        android:layout_height="59dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.051"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.752"
+        app:srcCompat="@drawable/collagen" />
+
+    <ImageView
+        android:id="@+id/imageView36"
+        android:layout_width="64dp"
+        android:layout_height="55dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.046"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.862"
+        app:srcCompat="@drawable/cetaphil" />
+
+    <ImageView
+        android:id="@+id/imageView37"
+        android:layout_width="55dp"
+        android:layout_height="65dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.064"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.975"
+        app:srcCompat="@drawable/mask" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ALOE VERA HYDRO GEL EYE PATCH"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.287"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.137" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Aloe vera is often touted for its potential to help with dark spots and dark circles. Its natural properties, including anti-inflammatory and antioxidant effects, may contribute to reducing skin discoloration. Aloe vera gel can be soothing and hydrating, which might help improve the overall appearance of the skin."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.158" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ESKINOL DEEP CLEANSER PAPAYA SMOOTH GLOW"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.353"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.244" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Does Eskinol remove dark spots? It brightens and reduces the appearance of dark spots with consistent usage, leaving your skin visibly clearer and smoother. It contains mineral grains and water minerals that help unclog pores for dirt removal and replenishes moisture in the skin."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.269" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="KOJIC ACID ALL-IN-ONE"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.252"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.363" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="The Brilliant Skin Rejuvenating Set is an all-in-one masterpiece that poses benefits like anti-acne, anti-aging properties, and even whitening—all to make your skin look younger. It can help to reduce the visibility of skin imperfections and blemishes by lightly removing the upper layers of your skin."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.393" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SOUTH GIRL SKIN REJUVENATNG 5 IN 1"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.302"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.497" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Micro peeling effect Removes pimple marks and dark spot Reduces pores Whitens and brightens Pinkish glowing skin Mild safe and effective Wrinkles."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.518" />
+
+    <TextView
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BIOAQUA FACIAL MASK"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.252"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.595" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="The Bioaqua Collagen Facial Mask is an anti-aging powerhouse, specifically formulated to tackle signs of aging such as fine lines and skin laxity. Its collagen-rich formula deeply hydrates and firms the skin, revealing a more youthful and vibrant complexion."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.626" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="YANJIAYI SLEEPING MASK"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.259"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.702" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="ANJIAYI Collagen Mask is drenched with a rich, anti-aging serum that delivers rich hydration and full nourishment all day long, repairing damaged skin, boosting collagen production, and soothing sensitive skin."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.747"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.736" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CETAPHIL GENTLE SKIN CLEANER"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.276"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.809" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="This gentle cleansing formula, now with hydrating Glycerin, Vitamin B3 and Pro-Vitamin B5, is clinically tested to be gentle at removing dirt, makeup and impurities, while preserving skin's natural moisture barrier."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.72"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.846" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BAMBOO CHARCOAL BLACKHEAD REMOVER"
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.315"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.913" />
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Due to its antibacterial, antifungal, pore-cleansing, impurity-fighting superpowers, bamboo charcoal gives your skin a detoxifying helping hand. By removing unwanted debris and reducing congestion, regular use leaves your skin looking brighter and more radiant."
+        android:textColor="@color/white"
+        android:textSize="20px"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.729"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.965" />
+</androidx.constraintlayout.widget.ConstraintLayout>
